@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#header .active{
+    color: rgb(248, 9, 9);
+}
